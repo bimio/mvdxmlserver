@@ -1,0 +1,13 @@
+{
+  "name": "mvdXMLServer",
+  "version": "0.0.1",
+  "description": "Simple server wrapper for mvdXMLChecker",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "cors": "^2.5.2",
+    "express": "^4.10.2",
+    "promise": "^6.0.1",
+    "prompt": "^0.2.14",
+    "request": "^2.49.0"
+  }
+}
